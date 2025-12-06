@@ -1,8 +1,12 @@
-Theory and Research - Repository
+THEORY AND RESEARCH - Repository
 
 Repository of theoretical works and simulations in the field of Machine Learning, Python and SAS coding. It includes research papers, theoretical models, and results from numerical simulations.
 
 ----------
-1) Proc Expand.pdf:
-2) Random Simulations.pdf:
+SUMMARY
+A brief description about each file:
+
+- Correlation Matrix - Python.pdf: 
+- Proc Expand.pdf:
+- Random Simulations.pdf:
    
